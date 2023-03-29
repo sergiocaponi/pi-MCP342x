@@ -11,7 +11,7 @@ Tested on Python 3.9 on a Raspberry Pi Zero W v1.1, but should be compatible wit
 
 ### Compatible devices
 
-Module works with all models the MCP3422/3/4, 18-bit ADC series. Compatibility with the MCP3426/7/8 series is yet to be established.
+Module works with all models the [MCP3422/3/4](https://ww1.microchip.com/downloads/en/devicedoc/22088c.pdf), 18-bit ADC series. Compatibility with the MCP3426/7/8 series is yet to be established.
 
 Full list of compatible devices:
 

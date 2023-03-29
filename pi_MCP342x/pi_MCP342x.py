@@ -2,7 +2,7 @@
 # A Python module for the Raspberry Pi to interface with the 
 # MCP342x series of I²C Analogue-to-Digital Converters.
 #
-#
+# v0.1
 
 
 
